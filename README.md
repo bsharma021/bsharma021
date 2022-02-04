@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- My name is Bhuvan Sharma. 
+- I am a Full-Stack Developer.
+- I am currently working on:
+    - Robotics
+    - UI Development
 <!--
 **bsharma021/bsharma021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
